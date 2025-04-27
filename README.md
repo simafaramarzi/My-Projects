@@ -20,8 +20,6 @@
 - **Machine Learning & Clustering**💻
 
 
-
-  
 Access me through: 
 
 - ✉️️ simafaramarzi780@gmail.com
