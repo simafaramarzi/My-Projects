@@ -7,6 +7,7 @@
   decision-making, combining strong logic, creative problem-solving skills, and a true love for coding and data.
 
 🎯 My Goals:
+
 -**Mastering advanced programming techniques
 -Designing and delivering impactful data-driven projects
 -Exploring and adopting cutting-edge technologies**
