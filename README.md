@@ -30,6 +30,6 @@ Here are some of the projects I've worked on:
 Access me through: 
 
 - ✉️️ simafaramarzi780@gmail.com
-- 🔗 sima-faramarzi
+- 🔗 www.linkedin.com/in/sima-faramarzi
 
 **Thank you for taking the time to visit my profile**
