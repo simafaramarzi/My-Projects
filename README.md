@@ -18,7 +18,7 @@
 - **Tableau, Streamlit** 📈📊 
 - **Machine Learning & Clustering**💻
 
-
+ README file with personal informatio
 Access me through: 
 
 - ✉️️ simafaramarzi780@gmail.com
