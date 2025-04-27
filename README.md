@@ -22,11 +22,10 @@
 ## 🚀 **Featured Projects:**
 Here are some of the projects I've worked on:
 
-- **Berlin Housing Market**:  (https://github.com/simafaramarzi/Sima-Faramarzi/blob/main/Berlin%20Housing%20Market.ipynb)
-- **Profitability Analysis of Pet Stores in the UK** : (https://github.com/simafaramarzi/Sima-Faramarzi/blob/main/Age-Weighted%20Purchase%20Probability%20Analysis.ipynb)
-- **E-Commerce Customer Behavior Analysis**: [GitHub Link](#)
--  **Age-Weighted Purchase Probability Analysis**  : [GitHub Link](#)
-
+- **Berlin Housing Market**
+- **Profitability Analysis of Pet Stores in the UK** 
+- **E-Commerce Customer Behavior Analysis**
+-  **Age-Weighted Purchase Probability Analysis**
 Access me through: 
 
 - ✉️️ simafaramarzi780@gmail.com
