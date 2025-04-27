@@ -6,11 +6,10 @@
   hands-on experience in data analysis. These days, I am focused on transforming data into practical insights to support better 
   decision-making, combining strong logic, creative problem-solving skills, and a true love for coding and data.
 
-🎯 My Goals:
-
--**Mastering advanced programming techniques**
--**Designing and delivering impactful data-driven projects**
--**Exploring and adopting cutting-edge technologies**
+🎯 **My Goals:**
+- **Mastering advanced programming techniques**
+- **Designing and delivering impactful data-driven projects**
+- **Exploring and adopting cutting-edge technologies**
 
 
 📊 Skills:
