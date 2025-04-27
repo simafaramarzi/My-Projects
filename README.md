@@ -26,6 +26,8 @@ Here are some of the projects I've worked on:
 - **Profitability Analysis of Pet Stores in the UK** 
 - **E-Commerce Customer Behavior Analysis**
 -  **Age-Weighted Purchase Probability Analysis**
+
+  
 Access me through: 
 
 - ✉️️ simafaramarzi780@gmail.com
