@@ -8,9 +8,9 @@
 
 🎯 My Goals:
 
--**Mastering advanced programming techniques
--Designing and delivering impactful data-driven projects
--Exploring and adopting cutting-edge technologies**
+-**Mastering advanced programming techniques**
+-**Designing and delivering impactful data-driven projects**
+-**Exploring and adopting cutting-edge technologies**
 
 
 📊 Skills:
