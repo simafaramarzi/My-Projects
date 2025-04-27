@@ -18,6 +18,15 @@
 - **Tableau, Streamlit** 📈📊 
 - **Machine Learning & Clustering**💻
 
+
+## 🚀 **Featured Projects:**
+Here are some of the projects I've worked on:
+
+- **Berlin Housing Market**:  [GitHub Link](#)
+- **Profitability Analysis of Pet Stores in the UK** :  [GitHub Link](#)
+- **E-Commerce Customer Behavior Analysis**: [GitHub Link](#)
+-  **Age-Weighted Purchase Probability Analysis**  : [GitHub Link](#)
+
 Access me through: 
 
 - ✉️️ simafaramarzi780@gmail.com
